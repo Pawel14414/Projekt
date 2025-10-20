@@ -52,3 +52,5 @@ void List::display() {
     std::cout << std::endl;
     std::cout << "-------------------------------------" << std::endl;
 }
+
+void removeFront();

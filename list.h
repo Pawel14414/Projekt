@@ -12,5 +12,6 @@ public:
     ~List();
 
     void addFront(int val); 
-    void display();        
+    void display();
+    void insertAt(int val, int index);        
 };
