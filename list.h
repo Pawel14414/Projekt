@@ -11,7 +11,9 @@ public:
     List();
     ~List();
 
-    void addFront(int val); 
-    void display();
-    void insertAt(int val, int index);        
+    void addFront(int val);
+    void addBack(int val);
+    void insertAt(int val, int index);
+    void removeFront();
+    void display();      
 };
