@@ -143,3 +143,4 @@ void List::removeAt(int index) {
     delete current;
 }
 
+// wstawiam losową zmianę
